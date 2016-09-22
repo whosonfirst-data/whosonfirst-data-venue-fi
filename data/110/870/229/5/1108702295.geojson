@@ -1,0 +1,73 @@
+{
+  "id": 1108702295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"24.9784693,60.2123762,24.9784693,60.2123762",
+    "geom:latitude":60.212376,
+    "geom:longitude":24.978469,
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "sg:address":"H\u00e4meentie 155 C 43",
+    "sg:city":"Helsinki",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"00560",
+    "sg:website":"http://www.e8.fi",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898915,
+        102191581,
+        85633143,
+        404227411,
+        101748417,
+        136253047,
+        890536885,
+        85683067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0XAk2OOZeVatEY4t4bebJl_60.212376_24.978469@1308163239"
+    },
+    "wof:country":"FI",
+    "wof:created":1474570856,
+    "wof:geomhash":"da698eb368cf27559b5bfe86bbc4b817",
+    "wof:hierarchy":[
+        {
+            "borough_id":890536885,
+            "continent_id":102191581,
+            "country_id":85633143,
+            "empire_id":136253047,
+            "locality_id":101748417,
+            "macroregion_id":404227411,
+            "neighbourhood_id":85898915,
+            "region_id":85683067,
+            "venue_id":1108702295
+        }
+    ],
+    "wof:id":1108702295,
+    "wof:lastmodified":1474570856,
+    "wof:name":"E8 - Personal CRM",
+    "wof:parent_id":85898915,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.9784693,
+    60.2123762,
+    24.9784693,
+    60.2123762
+],
+  "geometry": {"coordinates":[24.9784693,60.2123762],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1108702279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"24.8814617,60.1502991,24.8814617,60.1502991",
+    "geom:latitude":60.150299,
+    "geom:longitude":24.881462,
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "sg:address":"WOT Services Ltd. It\u00e4lahdenkatu 27 A",
+    "sg:city":"Helsinki",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"00210",
+    "sg:tags":[
+        "wot",
+        "mywot",
+        "web-of-trust",
+        "browser-addon",
+        "reputation---management",
+        "firefox-addon",
+        "ie-addon",
+        "chrome-extension"
+    ],
+    "sg:website":"http://www.mywot.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        890537261,
+        85907971,
+        890536879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2F7skmt435EcCD6hpvDfDL_60.150299_24.881462@1308163237"
+    },
+    "wof:country":"FI",
+    "wof:created":1474570855,
+    "wof:geomhash":"017115ea0f7734e79b1a13cc547673de",
+    "wof:hierarchy":[
+        {
+            "borough_id":890536879,
+            "macrohood_id":890537261,
+            "neighbourhood_id":85907971,
+            "venue_id":1108702279
+        }
+    ],
+    "wof:id":1108702279,
+    "wof:lastmodified":1474570855,
+    "wof:name":"WOT Services Ltd.",
+    "wof:parent_id":85907971,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wot",
+        "mywot",
+        "web-of-trust",
+        "browser-addon",
+        "reputation---management",
+        "firefox-addon",
+        "ie-addon",
+        "chrome-extension"
+    ]
+},
+  "bbox": [
+    24.8814617,
+    60.1502991,
+    24.8814617,
+    60.1502991
+],
+  "geometry": {"coordinates":[24.8814617,60.1502991],"type":"Point"}
+}

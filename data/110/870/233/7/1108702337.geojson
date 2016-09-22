@@ -1,0 +1,59 @@
+{
+  "id": 1108702337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"24.8004316,60.1759901,24.8004316,60.1759901",
+    "geom:latitude":60.17599,
+    "geom:longitude":24.800432,
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "sg:address":"Pohjantie 3",
+    "sg:city":"Espoo",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"02100",
+    "sg:tags":[
+        "website-builder",
+        "mobile-sites"
+    ],
+    "sg:website":"http://www.moogo.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4y1y0NSCztsz3wD99PRgjT_60.175990_24.800432@1308163241"
+    },
+    "wof:country":"FI",
+    "wof:created":1474570858,
+    "wof:geomhash":"6de8f64e32b7843d3060110f619da286",
+    "wof:hierarchy":[],
+    "wof:id":1108702337,
+    "wof:lastmodified":1474570858,
+    "wof:name":"Moogo",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "website-builder",
+        "mobile-sites"
+    ]
+},
+  "bbox": [
+    24.8004316,
+    60.1759901,
+    24.8004316,
+    60.1759901
+],
+  "geometry": {"coordinates":[24.8004316,60.1759901],"type":"Point"}
+}

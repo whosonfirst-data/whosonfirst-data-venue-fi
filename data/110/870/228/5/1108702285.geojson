@@ -1,0 +1,76 @@
+{
+  "id": 1108702285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"24.937854,60.162031,24.937854,60.162031",
+    "geom:latitude":60.162031,
+    "geom:longitude":24.937854,
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "sg:address":"Iso Roobertinkatu 42 B",
+    "sg:city":"Helsinki",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"00120",
+    "sg:tags":[
+        "moipal",
+        "mobile",
+        "game",
+        "virtual-world",
+        "virtual-goods",
+        "branded-virtual-goods"
+    ],
+    "sg:website":"http://www.ironstarhelsinki.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907891,
+        890536879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5eJG9EjGChLGOxJ8eII7br_60.162031_24.937854@1308163239"
+    },
+    "wof:country":"FI",
+    "wof:created":1474570855,
+    "wof:geomhash":"7280190cfc6f4ddac73ba80a51a43800",
+    "wof:hierarchy":[
+        {
+            "borough_id":890536879,
+            "neighbourhood_id":85907891,
+            "venue_id":1108702285
+        }
+    ],
+    "wof:id":1108702285,
+    "wof:lastmodified":1474570855,
+    "wof:name":"Ironstar Helsinki",
+    "wof:parent_id":85907891,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "moipal",
+        "mobile",
+        "game",
+        "virtual-world",
+        "virtual-goods",
+        "branded-virtual-goods"
+    ]
+},
+  "bbox": [
+    24.937854,
+    60.162031,
+    24.937854,
+    60.162031
+],
+  "geometry": {"coordinates":[24.937854,60.162031],"type":"Point"}
+}

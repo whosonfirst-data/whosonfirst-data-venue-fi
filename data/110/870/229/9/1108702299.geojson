@@ -1,0 +1,94 @@
+{
+  "id": 1108702299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"24.8703542,60.215635,24.8703542,60.215635",
+    "geom:latitude":60.215635,
+    "geom:longitude":24.870354,
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kutomotie 9 C",
+    "sg:city":"Helsinki",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"00380",
+    "sg:tags":[
+        "web",
+        "ruby",
+        "rails",
+        "app",
+        "webapp",
+        "agile",
+        "scrum",
+        "javascript"
+    ],
+    "sg:website":"http://www.nodeta.fi",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898825,
+        102191581,
+        890537273,
+        85633143,
+        404227411,
+        101748417,
+        136253047,
+        890536889,
+        85683067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3t3ay6qUXcYKt54SOcs8yf_60.215635_24.870354@1308163239"
+    },
+    "wof:country":"FI",
+    "wof:created":1474570856,
+    "wof:geomhash":"0181356eee2142bf227fd59ba6daf3ce",
+    "wof:hierarchy":[
+        {
+            "borough_id":890536889,
+            "continent_id":102191581,
+            "country_id":85633143,
+            "empire_id":136253047,
+            "locality_id":101748417,
+            "macrohood_id":890537273,
+            "macroregion_id":404227411,
+            "neighbourhood_id":85898825,
+            "region_id":85683067,
+            "venue_id":1108702299
+        }
+    ],
+    "wof:id":1108702299,
+    "wof:lastmodified":1474570856,
+    "wof:name":"Nodeta",
+    "wof:parent_id":85898825,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "web",
+        "ruby",
+        "rails",
+        "app",
+        "webapp",
+        "agile",
+        "scrum",
+        "javascript"
+    ]
+},
+  "bbox": [
+    24.8703542,
+    60.215635,
+    24.8703542,
+    60.215635
+],
+  "geometry": {"coordinates":[24.8703542,60.215635],"type":"Point"}
+}

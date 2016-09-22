@@ -1,0 +1,63 @@
+{
+  "id": 1108702315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"25.029023,60.192614,25.029023,60.192614",
+    "geom:latitude":60.192614,
+    "geom:longitude":25.029023,
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hevosenkenk\u00e4 3",
+    "sg:city":"Espoo",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Advertising",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"02600",
+    "sg:website":"http://www.xtract.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        890537227,
+        85898837,
+        890536883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7bRuT8gaBow7V10wkyE4xF_60.192614_25.029023@1308163238"
+    },
+    "wof:country":"FI",
+    "wof:created":1474570857,
+    "wof:geomhash":"fbb412749d570b0edbdd975e483ae0a4",
+    "wof:hierarchy":[
+        {
+            "borough_id":890536883,
+            "macrohood_id":890537227,
+            "neighbourhood_id":85898837,
+            "venue_id":1108702315
+        }
+    ],
+    "wof:id":1108702315,
+    "wof:lastmodified":1474570857,
+    "wof:name":"Xtract",
+    "wof:parent_id":85898837,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.029023,
+    60.192614,
+    25.029023,
+    60.192614
+],
+  "geometry": {"coordinates":[25.029023,60.192614],"type":"Point"}
+}

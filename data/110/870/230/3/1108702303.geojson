@@ -1,0 +1,61 @@
+{
+  "id": 1108702303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"24.9383722,60.1679674,24.9383722,60.1679674",
+    "geom:latitude":60.167967,
+    "geom:longitude":24.938372,
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "sg:address":"Yrj\u00f6nkatu 23 A",
+    "sg:city":"Helsinki",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"00100",
+    "sg:website":"http://www.sandhill.fi",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898821,
+        890536879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4xdirz6YRLBHT8xJD9Uxme_60.167967_24.938372@1308163240"
+    },
+    "wof:country":"FI",
+    "wof:created":1474570857,
+    "wof:geomhash":"67fb4dd9470deeee60e98ee03f7ba6a1",
+    "wof:hierarchy":[
+        {
+            "borough_id":890536879,
+            "neighbourhood_id":85898821,
+            "venue_id":1108702303
+        }
+    ],
+    "wof:id":1108702303,
+    "wof:lastmodified":1474570857,
+    "wof:name":"SAND HILL Services",
+    "wof:parent_id":85898821,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.9383722,
+    60.1679674,
+    24.9383722,
+    60.1679674
+],
+  "geometry": {"coordinates":[24.9383722,60.1679674],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1108702325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"24.8144161,60.1842502,24.8144161,60.1842502",
+    "geom:latitude":60.18425,
+    "geom:longitude":24.814416,
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "sg:address":"Museokatu 44",
+    "sg:city":"Helsinki",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"00100",
+    "sg:tags":[
+        "online",
+        "video",
+        "aggregator",
+        "content"
+    ],
+    "sg:website":"http://www.videoflo.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3sPZWHH6B9WhfVuPXslNzk_60.184250_24.814416@1308163241"
+    },
+    "wof:country":"FI",
+    "wof:created":1474570857,
+    "wof:geomhash":"5595abf93e2ded2bf0543049fa9c09c7",
+    "wof:hierarchy":[],
+    "wof:id":1108702325,
+    "wof:lastmodified":1474570857,
+    "wof:name":"Videoflow",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "online",
+        "video",
+        "aggregator",
+        "content"
+    ]
+},
+  "bbox": [
+    24.8144161,
+    60.1842502,
+    24.8144161,
+    60.1842502
+],
+  "geometry": {"coordinates":[24.8144161,60.1842502],"type":"Point"}
+}

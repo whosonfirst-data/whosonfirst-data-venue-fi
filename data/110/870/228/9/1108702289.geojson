@@ -1,0 +1,76 @@
+{
+  "id": 1108702289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"24.9410368,60.1703094,24.9410368,60.1703094",
+    "geom:latitude":60.170309,
+    "geom:longitude":24.941037,
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kaivokatu 8",
+    "sg:city":"Helsinki",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"00100",
+    "sg:tags":[
+        "ecommerce",
+        "e-commerce",
+        "social-ecommerce",
+        "online-shopping",
+        "shopping",
+        "social-shopping"
+    ],
+    "sg:website":"http://www.fruugo.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898847,
+        890536879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09LXXzSKLmGUy5WfGum9G4_60.170309_24.941037@1308163239"
+    },
+    "wof:country":"FI",
+    "wof:created":1474570855,
+    "wof:geomhash":"c548ce731cda41ead04f5db34a105dba",
+    "wof:hierarchy":[
+        {
+            "borough_id":890536879,
+            "neighbourhood_id":85898847,
+            "venue_id":1108702289
+        }
+    ],
+    "wof:id":1108702289,
+    "wof:lastmodified":1474570855,
+    "wof:name":"Fruugo",
+    "wof:parent_id":85898847,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ecommerce",
+        "e-commerce",
+        "social-ecommerce",
+        "online-shopping",
+        "shopping",
+        "social-shopping"
+    ]
+},
+  "bbox": [
+    24.9410368,
+    60.1703094,
+    24.9410368,
+    60.1703094
+],
+  "geometry": {"coordinates":[24.9410368,60.1703094],"type":"Point"}
+}

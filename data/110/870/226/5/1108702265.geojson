@@ -1,0 +1,62 @@
+{
+  "id": 1108702265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"24.827224,60.170514,24.827224,60.170514",
+    "geom:latitude":60.170514,
+    "geom:longitude":24.827224,
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "sg:address":"Keilalahdentie 2-4 P.O. Box 226, FIN-00045 Nokia Group",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"FIN-00045",
+    "sg:website":"http://nokia.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        890537261,
+        85898895,
+        890536879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5TnW4ZCwFcFUTufuR9h8hg_60.170514_24.827224@1308163236"
+    },
+    "wof:country":"FI",
+    "wof:created":1474570855,
+    "wof:geomhash":"19e8332357f549c682082bec04b848c6",
+    "wof:hierarchy":[
+        {
+            "borough_id":890536879,
+            "macrohood_id":890537261,
+            "neighbourhood_id":85898895,
+            "venue_id":1108702265
+        }
+    ],
+    "wof:id":1108702265,
+    "wof:lastmodified":1474570855,
+    "wof:name":"Nokia",
+    "wof:parent_id":85898895,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.827224,
+    60.170514,
+    24.827224,
+    60.170514
+],
+  "geometry": {"coordinates":[24.827224,60.170514],"type":"Point"}
+}

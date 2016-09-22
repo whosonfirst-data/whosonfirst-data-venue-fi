@@ -1,0 +1,88 @@
+{
+  "id": 1108702335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"25.470902,65.0127875,25.470902,65.0127875",
+    "geom:latitude":65.012788,
+    "geom:longitude":25.470902,
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "sg:address":"Pakkahuoneenkatu 12 A",
+    "sg:city":"Oulu",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"90100",
+    "sg:tags":[
+        "mobile",
+        "personalization",
+        "flash-lite",
+        "screensaver",
+        "wallpaper",
+        "social",
+        "user-generated"
+    ],
+    "sg:website":"http://www.pikkoo.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898917,
+        102191581,
+        85633143,
+        404227415,
+        101748443,
+        136253047,
+        85683143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3lJPm4BqqOnKyFkXX3N7yi_65.012788_25.470902@1308163241"
+    },
+    "wof:country":"FI",
+    "wof:created":1474570858,
+    "wof:geomhash":"47367b97b270536ab2abd9842484271a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "empire_id":136253047,
+            "locality_id":101748443,
+            "macroregion_id":404227415,
+            "neighbourhood_id":85898917,
+            "region_id":85683143,
+            "venue_id":1108702335
+        }
+    ],
+    "wof:id":1108702335,
+    "wof:lastmodified":1474570858,
+    "wof:name":"Pikkoo",
+    "wof:parent_id":85898917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mobile",
+        "personalization",
+        "flash-lite",
+        "screensaver",
+        "wallpaper",
+        "social",
+        "user-generated"
+    ]
+},
+  "bbox": [
+    25.470902,
+    65.0127875,
+    25.470902,
+    65.0127875
+],
+  "geometry": {"coordinates":[25.470902,65.0127875],"type":"Point"}
+}

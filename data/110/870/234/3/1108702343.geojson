@@ -1,0 +1,61 @@
+{
+  "id": 1108702343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"24.92058,60.175389,24.92058,60.175389",
+    "geom:latitude":60.175389,
+    "geom:longitude":24.92058,
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "sg:address":"Museokatu 42",
+    "sg:city":"Helsinki",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"00100",
+    "sg:website":"http://www.zipipop.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898845,
+        890536879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_18WaNPLRJELnSNDH6jHRCn_60.175389_24.920580@1308163238"
+    },
+    "wof:country":"FI",
+    "wof:created":1474570858,
+    "wof:geomhash":"bc21536d8e94dae4852937689bc33283",
+    "wof:hierarchy":[
+        {
+            "borough_id":890536879,
+            "neighbourhood_id":85898845,
+            "venue_id":1108702343
+        }
+    ],
+    "wof:id":1108702343,
+    "wof:lastmodified":1474570858,
+    "wof:name":"Zipipop",
+    "wof:parent_id":85898845,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.92058,
+    60.175389,
+    24.92058,
+    60.175389
+],
+  "geometry": {"coordinates":[24.92058,60.175389],"type":"Point"}
+}

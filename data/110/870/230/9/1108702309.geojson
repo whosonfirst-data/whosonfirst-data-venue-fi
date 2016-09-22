@@ -1,0 +1,92 @@
+{
+  "id": 1108702309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"24.9754678,60.206789,24.9754678,60.206789",
+    "geom:latitude":60.206789,
+    "geom:longitude":24.975468,
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "sg:address":"Arabiankatu 12",
+    "sg:city":"Helsinki",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"00560",
+    "sg:tags":[
+        "startup",
+        "helsinki",
+        "finland",
+        "green",
+        "eco",
+        "ecological",
+        "ecological-backpack"
+    ],
+    "sg:website":"http://www.onedidit.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907983,
+        102191581,
+        890537271,
+        85633143,
+        404227411,
+        101748417,
+        136253047,
+        890536891,
+        85683067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0rFWYw27JjowpqNbEcQDZp_60.206789_24.975468@1308163240"
+    },
+    "wof:country":"FI",
+    "wof:created":1474570857,
+    "wof:geomhash":"f831edfadbea7f76e1febc82d97b76e8",
+    "wof:hierarchy":[
+        {
+            "borough_id":890536891,
+            "continent_id":102191581,
+            "country_id":85633143,
+            "empire_id":136253047,
+            "locality_id":101748417,
+            "macrohood_id":890537271,
+            "macroregion_id":404227411,
+            "neighbourhood_id":85907983,
+            "region_id":85683067,
+            "venue_id":1108702309
+        }
+    ],
+    "wof:id":1108702309,
+    "wof:lastmodified":1474570857,
+    "wof:name":"One did it",
+    "wof:parent_id":85907983,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "startup",
+        "helsinki",
+        "finland",
+        "green",
+        "eco",
+        "ecological",
+        "ecological-backpack"
+    ]
+},
+  "bbox": [
+    24.9754678,
+    60.206789,
+    24.9754678,
+    60.206789
+],
+  "geometry": {"coordinates":[24.9754678,60.206789],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1108702311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"24.9438568,60.1659819,24.9438568,60.1659819",
+    "geom:latitude":60.165982,
+    "geom:longitude":24.943857,
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "sg:address":"Erottajankatu 15-17",
+    "sg:city":"Helsinki",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"00130",
+    "sg:website":"http://www.frosmo.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907893,
+        890536879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4c6KAvo8f1hNGv7uqYUbSW_60.165982_24.943857@1308163240"
+    },
+    "wof:country":"FI",
+    "wof:created":1474570857,
+    "wof:geomhash":"07d9aebf7560aeba96e3623c1052c9ad",
+    "wof:hierarchy":[
+        {
+            "borough_id":890536879,
+            "neighbourhood_id":85907893,
+            "venue_id":1108702311
+        }
+    ],
+    "wof:id":1108702311,
+    "wof:lastmodified":1474570857,
+    "wof:name":"Frosmo",
+    "wof:parent_id":85907893,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.9438568,
+    60.1659819,
+    24.9438568,
+    60.1659819
+],
+  "geometry": {"coordinates":[24.9438568,60.1659819],"type":"Point"}
+}

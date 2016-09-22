@@ -1,0 +1,73 @@
+{
+  "id": 1108702319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"24.4280745,60.123399,24.4280745,60.123399",
+    "geom:latitude":60.123399,
+    "geom:longitude":24.428075,
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "sg:address":"Eerikint\u00f6rm\u00e4 2 C 26",
+    "sg:city":"Kirkkonummi",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"02400",
+    "sg:tags":[
+        "stock",
+        "photo",
+        "photography",
+        "royalty-free",
+        "rf",
+        "sell",
+        "buy",
+        "illustration",
+        "vector"
+    ],
+    "sg:website":"http://www.fotomina.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1IwVdmLMWZ9J3k6bhKWtok_60.123399_24.428075@1308163241"
+    },
+    "wof:country":"FI",
+    "wof:created":1474570857,
+    "wof:geomhash":"7804696be0f83db7508cd9f1b7f3fe84",
+    "wof:hierarchy":[],
+    "wof:id":1108702319,
+    "wof:lastmodified":1474570857,
+    "wof:name":"Fotomina",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "stock",
+        "photo",
+        "photography",
+        "royalty-free",
+        "rf",
+        "sell",
+        "buy",
+        "illustration",
+        "vector"
+    ]
+},
+  "bbox": [
+    24.4280745,
+    60.123399,
+    24.4280745,
+    60.123399
+],
+  "geometry": {"coordinates":[24.4280745,60.123399],"type":"Point"}
+}

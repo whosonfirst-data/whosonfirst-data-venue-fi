@@ -1,0 +1,52 @@
+{
+  "id": 1108702329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"22.2930547,60.4500359,22.2930547,60.4500359",
+    "geom:latitude":60.450036,
+    "geom:longitude":22.293055,
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "sg:address":"Tykistokatu 4 D",
+    "sg:city":"Turku",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Electronics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"20520",
+    "sg:website":"http://www.scannanotek.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48QnwLReFvfLln3ePYcVH9_60.450036_22.293055@1308163242"
+    },
+    "wof:country":"FI",
+    "wof:created":1474570857,
+    "wof:geomhash":"fd9476074bb4db032ec2e70952a92a44",
+    "wof:hierarchy":[],
+    "wof:id":1108702329,
+    "wof:lastmodified":1474570857,
+    "wof:name":"ScanNanoTek",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.2930547,
+    60.4500359,
+    22.2930547,
+    60.4500359
+],
+  "geometry": {"coordinates":[22.2930547,60.4500359],"type":"Point"}
+}

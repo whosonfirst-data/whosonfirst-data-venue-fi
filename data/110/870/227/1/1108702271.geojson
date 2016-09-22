@@ -1,0 +1,67 @@
+{
+  "id": 1108702271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"24.704663,60.214102,24.704663,60.214102",
+    "geom:latitude":60.214102,
+    "geom:longitude":24.704663,
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "sg:address":"Urheilutie 12",
+    "sg:city":"Kauniainen",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"00790",
+    "sg:tags":[
+        "debts",
+        "community-finance",
+        "travel-expenses",
+        "finland",
+        "seedcamp",
+        "seedcamp-2008"
+    ],
+    "sg:website":"http://www.scred.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_007o9fopvAFtz5yssAQjf3_60.214102_24.704663@1308163237"
+    },
+    "wof:country":"FI",
+    "wof:created":1474570855,
+    "wof:geomhash":"d40d2001569952c54e871cd85a843fc4",
+    "wof:hierarchy":[],
+    "wof:id":1108702271,
+    "wof:lastmodified":1474570855,
+    "wof:name":"Scred",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "debts",
+        "community-finance",
+        "travel-expenses",
+        "finland",
+        "seedcamp",
+        "seedcamp-2008"
+    ]
+},
+  "bbox": [
+    24.704663,
+    60.214102,
+    24.704663,
+    60.214102
+],
+  "geometry": {"coordinates":[24.704663,60.214102],"type":"Point"}
+}

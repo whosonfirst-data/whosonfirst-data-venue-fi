@@ -1,0 +1,61 @@
+{
+  "id": 1108702291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"25.4421286,65.0566012,25.4421286,65.0566012",
+    "geom:latitude":65.056601,
+    "geom:longitude":25.442129,
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "sg:address":"Elektroniikkatie 3",
+    "sg:city":"Oulu",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"FI90570",
+    "sg:tags":[
+        "software",
+        "mobile",
+        "mobile-device-management"
+    ],
+    "sg:website":"http://www.capricode.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ut0aN8Ily3UFYxflGSpqm_65.056601_25.442129@1308163239"
+    },
+    "wof:country":"FI",
+    "wof:created":1474570856,
+    "wof:geomhash":"381830802cfb89ae2ff7b3c66cb009e5",
+    "wof:hierarchy":[],
+    "wof:id":1108702291,
+    "wof:lastmodified":1474570856,
+    "wof:name":"Capricode",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "software",
+        "mobile",
+        "mobile-device-management"
+    ]
+},
+  "bbox": [
+    25.4421286,
+    65.0566012,
+    25.4421286,
+    65.0566012
+],
+  "geometry": {"coordinates":[25.4421286,65.0566012],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1108702333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"24.9279339,60.1708429,24.9279339,60.1708429",
+    "geom:latitude":60.170843,
+    "geom:longitude":24.927934,
+    "iso:country":"FI",
+    "mz:hierarchy_label":1,
+    "sg:address":"Fredrikinkatu 60 A 61",
+    "sg:city":"Helsinki",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"00100",
+    "sg:tags":[
+        "consultation",
+        "social-media",
+        "open-innovation",
+        "community-building",
+        "events",
+        "facilitation",
+        "social-change",
+        "social-platforms"
+    ],
+    "sg:website":"http://www.dicole.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898845,
+        890536879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1vD6CIzKIpNMKr8JPIXwkO_60.170843_24.927934@1308163241"
+    },
+    "wof:country":"FI",
+    "wof:created":1474570858,
+    "wof:geomhash":"1bafb98466d327df71de3912ca4fc937",
+    "wof:hierarchy":[
+        {
+            "borough_id":890536879,
+            "neighbourhood_id":85898845,
+            "venue_id":1108702333
+        }
+    ],
+    "wof:id":1108702333,
+    "wof:lastmodified":1474570858,
+    "wof:name":"Dicole",
+    "wof:parent_id":85898845,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultation",
+        "social-media",
+        "open-innovation",
+        "community-building",
+        "events",
+        "facilitation",
+        "social-change",
+        "social-platforms"
+    ]
+},
+  "bbox": [
+    24.9279339,
+    60.1708429,
+    24.9279339,
+    60.1708429
+],
+  "geometry": {"coordinates":[24.9279339,60.1708429],"type":"Point"}
+}
