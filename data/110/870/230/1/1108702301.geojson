@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"24.9639412,60.167909,24.9639412,60.167909",
     "geom:latitude":60.167909,
     "geom:longitude":24.963941,
@@ -32,7 +33,16 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85907975,
-        890536879
+        102191581,
+        1108727331,
+        907199715,
+        85633143,
+        404227411,
+        101748417,
+        136253047,
+        890536879,
+        85683067,
+        1108727041
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,14 +54,35 @@
     "wof:hierarchy":[
         {
             "borough_id":890536879,
+            "continent_id":102191581,
+            "country_id":85633143,
+            "empire_id":136253047,
+            "localadmin_id":907199715,
+            "locality_id":101748417,
+            "macrohood_id":1108727331,
+            "macroregion_id":404227411,
             "neighbourhood_id":85907975,
+            "region_id":85683067,
+            "venue_id":1108702301
+        },
+        {
+            "borough_id":890536879,
+            "continent_id":102191581,
+            "country_id":85633143,
+            "empire_id":136253047,
+            "localadmin_id":907199715,
+            "locality_id":101748417,
+            "macrohood_id":1108727331,
+            "macroregion_id":404227411,
+            "neighbourhood_id":1108727041,
+            "region_id":85683067,
             "venue_id":1108702301
         }
     ],
     "wof:id":1108702301,
-    "wof:lastmodified":1474570856,
+    "wof:lastmodified":1485376901,
     "wof:name":"Redriever",
-    "wof:parent_id":85907975,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fi",
     "wof:superseded_by":[],
