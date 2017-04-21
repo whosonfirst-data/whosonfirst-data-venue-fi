@@ -42,8 +42,7 @@
         101748417,
         136253047,
         890536879,
-        85683067,
-        1108727051
+        85683067
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,7 +50,7 @@
     },
     "wof:country":"FI",
     "wof:created":1474570855,
-    "wof:geomhash":"c548ce731cda41ead04f5db34a105dba",
+    "wof:geomhash":"77dffb4f8f60d064505b265163694140",
     "wof:hierarchy":[
         {
             "borough_id":890536879,
@@ -65,25 +64,12 @@
             "neighbourhood_id":85898847,
             "region_id":85683067,
             "venue_id":1108702289
-        },
-        {
-            "borough_id":890536879,
-            "continent_id":102191581,
-            "country_id":85633143,
-            "empire_id":136253047,
-            "localadmin_id":907199715,
-            "locality_id":101748417,
-            "macrohood_id":1108727331,
-            "macroregion_id":404227411,
-            "neighbourhood_id":1108727051,
-            "region_id":85683067,
-            "venue_id":1108702289
         }
     ],
     "wof:id":1108702289,
-    "wof:lastmodified":1485482742,
+    "wof:lastmodified":1492798938,
     "wof:name":"Fruugo",
-    "wof:parent_id":-3,
+    "wof:parent_id":85898847,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fi",
     "wof:superseded_by":[],

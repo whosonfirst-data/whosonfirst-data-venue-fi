@@ -25,7 +25,7 @@
     "sg:website":"http://www.zipipop.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        1108726977,
+        85898821,
         102191581,
         1108727337,
         907199715,
@@ -34,8 +34,7 @@
         101748417,
         136253047,
         890536879,
-        85683067,
-        85898845
+        85683067
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,7 +42,7 @@
     },
     "wof:country":"FI",
     "wof:created":1474570858,
-    "wof:geomhash":"bc21536d8e94dae4852937689bc33283",
+    "wof:geomhash":"4e92800e928d4a610d5425c7e3071435",
     "wof:hierarchy":[
         {
             "borough_id":890536879,
@@ -54,28 +53,15 @@
             "locality_id":101748417,
             "macrohood_id":1108727337,
             "macroregion_id":404227411,
-            "neighbourhood_id":1108726977,
-            "region_id":85683067,
-            "venue_id":1108702343
-        },
-        {
-            "borough_id":890536879,
-            "continent_id":102191581,
-            "country_id":85633143,
-            "empire_id":136253047,
-            "localadmin_id":907199715,
-            "locality_id":101748417,
-            "macrohood_id":1108727337,
-            "macroregion_id":404227411,
-            "neighbourhood_id":85898845,
+            "neighbourhood_id":85898821,
             "region_id":85683067,
             "venue_id":1108702343
         }
     ],
     "wof:id":1108702343,
-    "wof:lastmodified":1485482741,
+    "wof:lastmodified":1492798937,
     "wof:name":"Zipipop",
-    "wof:parent_id":-3,
+    "wof:parent_id":85898821,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fi",
     "wof:superseded_by":[],

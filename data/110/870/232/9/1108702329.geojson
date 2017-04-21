@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"22.2930547,60.4500359,22.2930547,60.4500359",
     "geom:latitude":60.450036,
     "geom:longitude":22.293055,
@@ -23,19 +24,40 @@
     "sg:postcode":"20520",
     "sg:website":"http://www.scannanotek.com/",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108728743,
+        102191581,
+        907198909,
+        85633143,
+        404227405,
+        101748421,
+        136253047,
+        85683073
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_48QnwLReFvfLln3ePYcVH9_60.450036_22.293055@1308163242"
     },
     "wof:country":"FI",
     "wof:created":1474570857,
-    "wof:geomhash":"fd9476074bb4db032ec2e70952a92a44",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a1ba5c955df19078b847a979574570c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "empire_id":136253047,
+            "localadmin_id":907198909,
+            "locality_id":101748421,
+            "macroregion_id":404227405,
+            "neighbourhood_id":1108728743,
+            "region_id":85683073,
+            "venue_id":1108702329
+        }
+    ],
     "wof:id":1108702329,
-    "wof:lastmodified":1474570857,
+    "wof:lastmodified":1492798936,
     "wof:name":"ScanNanoTek",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108728743,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fi",
     "wof:superseded_by":[],

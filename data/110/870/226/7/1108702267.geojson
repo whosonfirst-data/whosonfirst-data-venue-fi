@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.721287,52.146853,-1.721287,52.146853",
     "geom:latitude":52.146853,
     "geom:longitude":-1.721287,
@@ -35,17 +36,32 @@
     ],
     "sg:website":"http://www.blyk.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683907,
+        "102191581",
+        404430943,
+        "85633159",
+        404227469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_71Yzgkts5kLdAsBpxriJDY_52.146853_-1.721287@1308163236"
     },
     "wof:country":"FI",
     "wof:created":1474570855,
-    "wof:geomhash":"e08aff4b732cdb2ba739c0fd0b44afc1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"09d572c6e32f991d3f99d27eb85f19de",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404430943,
+            "macroregion_id":404227469,
+            "region_id":85683907,
+            "venue_id":1108702267
+        }
+    ],
     "wof:id":1108702267,
-    "wof:lastmodified":1474570855,
+    "wof:lastmodified":1492798939,
     "wof:name":"Blyk",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

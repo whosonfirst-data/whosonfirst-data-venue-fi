@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"24.4280745,60.123399,24.4280745,60.123399",
     "geom:latitude":60.123399,
     "geom:longitude":24.428075,
@@ -34,17 +35,34 @@
     ],
     "sg:website":"http://www.fotomina.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683067,
+        102191581,
+        85633143,
+        404227411,
+        101815297,
+        136253047
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1IwVdmLMWZ9J3k6bhKWtok_60.123399_24.428075@1308163241"
     },
     "wof:country":"FI",
     "wof:created":1474570857,
-    "wof:geomhash":"7804696be0f83db7508cd9f1b7f3fe84",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2e82ab5bde595f6c6a2ec6561d069d50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "empire_id":136253047,
+            "locality_id":101815297,
+            "macroregion_id":404227411,
+            "region_id":85683067,
+            "venue_id":1108702319
+        }
+    ],
     "wof:id":1108702319,
-    "wof:lastmodified":1474570857,
+    "wof:lastmodified":1492798938,
     "wof:name":"Fotomina",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"23.860719,61.446133,23.860719,61.446133",
     "geom:latitude":61.446133,
     "geom:longitude":23.860719,
@@ -23,19 +24,40 @@
     "sg:postcode":"33720",
     "sg:website":"http://www.epicrystals.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108728449,
+        102191581,
+        907199231,
+        85633143,
+        404227417,
+        101748431,
+        136253047,
+        85683099
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2g2PgGL0TaRT1Fbmq4ebWP_61.446133_23.860719@1308163241"
     },
     "wof:country":"FI",
     "wof:created":1474570857,
-    "wof:geomhash":"1a10e15f2ae4542ddb820af8e5236de9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a33836ff8c61b26e341b84150a5c3823",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "empire_id":136253047,
+            "localadmin_id":907199231,
+            "locality_id":101748431,
+            "macroregion_id":404227417,
+            "neighbourhood_id":1108728449,
+            "region_id":85683099,
+            "venue_id":1108702327
+        }
+    ],
     "wof:id":1108702327,
-    "wof:lastmodified":1474570857,
+    "wof:lastmodified":1492798936,
     "wof:name":"EpiCrystals",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108728449,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fi",
     "wof:superseded_by":[],

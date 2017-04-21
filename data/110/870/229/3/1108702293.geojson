@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"22.173893,62.4179735,22.173893,62.4179735",
     "geom:latitude":62.417974,
     "geom:longitude":22.173893,
@@ -51,17 +52,34 @@
     ],
     "sg:website":"http://www.itive.net",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683113,
+        102191581,
+        85633143,
+        404227417,
+        101814139,
+        136253047
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5a7VZvncFrUxZhfRRRZjLN_62.417974_22.173893@1308163239"
     },
     "wof:country":"FI",
     "wof:created":1474570856,
-    "wof:geomhash":"134c31bc1f54bca4ac7e8c34de9d4abe",
-    "wof:hierarchy":[],
+    "wof:geomhash":"194b31c0e27914662cb84d117d4ecb07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "empire_id":136253047,
+            "locality_id":101814139,
+            "macroregion_id":404227417,
+            "region_id":85683113,
+            "venue_id":1108702293
+        }
+    ],
     "wof:id":1108702293,
-    "wof:lastmodified":1474570856,
+    "wof:lastmodified":1492798937,
     "wof:name":"itive",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

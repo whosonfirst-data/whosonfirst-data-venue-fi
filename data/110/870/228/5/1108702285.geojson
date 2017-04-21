@@ -33,7 +33,7 @@
     "sg:website":"http://www.ironstarhelsinki.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        1108727161,
+        85907887,
         102191581,
         1108727335,
         907199715,
@@ -42,9 +42,7 @@
         101748417,
         136253047,
         890536879,
-        85683067,
-        85907891,
-        1108727337
+        85683067
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,7 +50,7 @@
     },
     "wof:country":"FI",
     "wof:created":1474570855,
-    "wof:geomhash":"7280190cfc6f4ddac73ba80a51a43800",
+    "wof:geomhash":"71f979dd99d2aa1e1c330ed79502f772",
     "wof:hierarchy":[
         {
             "borough_id":890536879,
@@ -63,28 +61,15 @@
             "locality_id":101748417,
             "macrohood_id":1108727335,
             "macroregion_id":404227411,
-            "neighbourhood_id":1108727161,
-            "region_id":85683067,
-            "venue_id":1108702285
-        },
-        {
-            "borough_id":890536879,
-            "continent_id":102191581,
-            "country_id":85633143,
-            "empire_id":136253047,
-            "localadmin_id":907199715,
-            "locality_id":101748417,
-            "macrohood_id":1108727337,
-            "macroregion_id":404227411,
-            "neighbourhood_id":85907891,
+            "neighbourhood_id":85907887,
             "region_id":85683067,
             "venue_id":1108702285
         }
     ],
     "wof:id":1108702285,
-    "wof:lastmodified":1485376905,
+    "wof:lastmodified":1492798938,
     "wof:name":"Ironstar Helsinki",
-    "wof:parent_id":-3,
+    "wof:parent_id":85907887,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fi",
     "wof:superseded_by":[],

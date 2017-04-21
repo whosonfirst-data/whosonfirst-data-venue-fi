@@ -31,7 +31,7 @@
     "sg:website":"http://habbo.com/client",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        1108727023,
+        85907975,
         102191581,
         1108727335,
         907199715,
@@ -40,9 +40,7 @@
         101748417,
         136253047,
         890536879,
-        85683067,
-        85907893,
-        1108727337
+        85683067
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,7 +48,7 @@
     },
     "wof:country":"FI",
     "wof:created":1474570855,
-    "wof:geomhash":"566ac0e72fccd5aa702758098dbee95e",
+    "wof:geomhash":"508dd060ec539999ccccc53cb514245c",
     "wof:hierarchy":[
         {
             "borough_id":890536879,
@@ -61,28 +59,15 @@
             "locality_id":101748417,
             "macrohood_id":1108727335,
             "macroregion_id":404227411,
-            "neighbourhood_id":1108727023,
-            "region_id":85683067,
-            "venue_id":1108702283
-        },
-        {
-            "borough_id":890536879,
-            "continent_id":102191581,
-            "country_id":85633143,
-            "empire_id":136253047,
-            "localadmin_id":907199715,
-            "locality_id":101748417,
-            "macrohood_id":1108727337,
-            "macroregion_id":404227411,
-            "neighbourhood_id":85907893,
+            "neighbourhood_id":85907975,
             "region_id":85683067,
             "venue_id":1108702283
         }
     ],
     "wof:id":1108702283,
-    "wof:lastmodified":1485482741,
+    "wof:lastmodified":1492798938,
     "wof:name":"Habbo",
-    "wof:parent_id":-3,
+    "wof:parent_id":85907975,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fi",
     "wof:superseded_by":[],

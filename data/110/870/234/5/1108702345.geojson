@@ -37,17 +37,14 @@
     "wof:belongsto":[
         85907971,
         102191581,
-        890537261,
+        1108727337,
         907199715,
         85633143,
         404227411,
         101748417,
         136253047,
         890536879,
-        85683067,
-        1108727175,
-        890537243,
-        1108727337
+        85683067
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,34 +52,8 @@
     },
     "wof:country":"FI",
     "wof:created":1474570858,
-    "wof:geomhash":"bb80d315fad9f0d0f78f345bab98e2d1",
+    "wof:geomhash":"3a4cf1b58234dd0176fd7345c5743a14",
     "wof:hierarchy":[
-        {
-            "borough_id":890536879,
-            "continent_id":102191581,
-            "country_id":85633143,
-            "empire_id":136253047,
-            "localadmin_id":907199715,
-            "locality_id":101748417,
-            "macrohood_id":890537261,
-            "macroregion_id":404227411,
-            "neighbourhood_id":85907971,
-            "region_id":85683067,
-            "venue_id":1108702345
-        },
-        {
-            "borough_id":890536879,
-            "continent_id":102191581,
-            "country_id":85633143,
-            "empire_id":136253047,
-            "localadmin_id":907199715,
-            "locality_id":101748417,
-            "macrohood_id":890537243,
-            "macroregion_id":404227411,
-            "neighbourhood_id":1108727175,
-            "region_id":85683067,
-            "venue_id":1108702345
-        },
         {
             "borough_id":890536879,
             "continent_id":102191581,
@@ -92,15 +63,15 @@
             "locality_id":101748417,
             "macrohood_id":1108727337,
             "macroregion_id":404227411,
-            "neighbourhood_id":1108727175,
+            "neighbourhood_id":85907971,
             "region_id":85683067,
             "venue_id":1108702345
         }
     ],
     "wof:id":1108702345,
-    "wof:lastmodified":1485482742,
+    "wof:lastmodified":1492798937,
     "wof:name":"HammerKit",
-    "wof:parent_id":-3,
+    "wof:parent_id":85907971,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fi",
     "wof:superseded_by":[],

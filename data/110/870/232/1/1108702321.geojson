@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.0978108,61.0626853,28.0978108,61.0626853",
     "geom:latitude":61.062685,
     "geom:longitude":28.097811,
@@ -31,17 +32,36 @@
     ],
     "sg:website":"http://www.novelion.net",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683103,
+        102191581,
+        907198887,
+        85633143,
+        404227411,
+        101748433,
+        136253047
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7jYlRqLiDhPeyxiOWS3a9E_61.062685_28.097811@1308163241"
     },
     "wof:country":"FI",
     "wof:created":1474570857,
-    "wof:geomhash":"cd1fd0ee17320c7b45b704ee2d68c0fb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"693ea692a152f9b803aac9591aa7a6db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "empire_id":136253047,
+            "localadmin_id":907198887,
+            "locality_id":101748433,
+            "macroregion_id":404227411,
+            "region_id":85683103,
+            "venue_id":1108702321
+        }
+    ],
     "wof:id":1108702321,
-    "wof:lastmodified":1474570857,
+    "wof:lastmodified":1492798936,
     "wof:name":"Novelion Media",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

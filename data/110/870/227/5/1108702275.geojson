@@ -35,7 +35,7 @@
     "sg:website":"http://www.xihalife.com/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        1108727051,
+        85898847,
         102191581,
         1108727331,
         907199715,
@@ -44,9 +44,7 @@
         101748417,
         136253047,
         890536879,
-        85683067,
-        85907893,
-        1108727337
+        85683067
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,7 +52,7 @@
     },
     "wof:country":"FI",
     "wof:created":1474570855,
-    "wof:geomhash":"91853cd8b3ee4b12bde9ac1e802474d4",
+    "wof:geomhash":"fa42ac1ccfc75be0e152b8b05c9990c2",
     "wof:hierarchy":[
         {
             "borough_id":890536879,
@@ -65,28 +63,15 @@
             "locality_id":101748417,
             "macrohood_id":1108727331,
             "macroregion_id":404227411,
-            "neighbourhood_id":1108727051,
-            "region_id":85683067,
-            "venue_id":1108702275
-        },
-        {
-            "borough_id":890536879,
-            "continent_id":102191581,
-            "country_id":85633143,
-            "empire_id":136253047,
-            "localadmin_id":907199715,
-            "locality_id":101748417,
-            "macrohood_id":1108727337,
-            "macroregion_id":404227411,
-            "neighbourhood_id":85907893,
+            "neighbourhood_id":85898847,
             "region_id":85683067,
             "venue_id":1108702275
         }
     ],
     "wof:id":1108702275,
-    "wof:lastmodified":1485482742,
+    "wof:lastmodified":1492798936,
     "wof:name":"XIHA",
-    "wof:parent_id":-3,
+    "wof:parent_id":85898847,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fi",
     "wof:superseded_by":[],

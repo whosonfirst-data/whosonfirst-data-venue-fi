@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"27.269548,61.498858,27.269548,61.498858",
     "geom:latitude":61.498858,
     "geom:longitude":27.269548,
@@ -27,17 +28,34 @@
     ],
     "sg:website":"http://www.supponor.tv/",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683109,
+        102191581,
+        85633143,
+        404227407,
+        101814079,
+        136253047
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2iD41p1J3xku1Dv0Legtbu_61.498858_27.269548@1308163238"
     },
     "wof:country":"FI",
     "wof:created":1474570858,
-    "wof:geomhash":"db9d6f1e807d08507df90c5e25f68fed",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c8004811abfd9171ac1281cca76e60d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "empire_id":136253047,
+            "locality_id":101814079,
+            "macroregion_id":404227407,
+            "region_id":85683109,
+            "venue_id":1108702347
+        }
+    ],
     "wof:id":1108702347,
-    "wof:lastmodified":1474570858,
+    "wof:lastmodified":1492798937,
     "wof:name":"Supponor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

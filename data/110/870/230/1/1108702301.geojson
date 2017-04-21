@@ -32,7 +32,7 @@
     "sg:website":"http://www.redriever.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85907975,
+        1108727041,
         102191581,
         1108727331,
         907199715,
@@ -41,8 +41,7 @@
         101748417,
         136253047,
         890536879,
-        85683067,
-        1108727041
+        85683067
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,21 +49,8 @@
     },
     "wof:country":"FI",
     "wof:created":1474570856,
-    "wof:geomhash":"63e78d32515af66d51d8833e7bc3795c",
+    "wof:geomhash":"9fc4801a998df5070704bbe8a374c1f9",
     "wof:hierarchy":[
-        {
-            "borough_id":890536879,
-            "continent_id":102191581,
-            "country_id":85633143,
-            "empire_id":136253047,
-            "localadmin_id":907199715,
-            "locality_id":101748417,
-            "macrohood_id":1108727331,
-            "macroregion_id":404227411,
-            "neighbourhood_id":85907975,
-            "region_id":85683067,
-            "venue_id":1108702301
-        },
         {
             "borough_id":890536879,
             "continent_id":102191581,
@@ -80,9 +66,9 @@
         }
     ],
     "wof:id":1108702301,
-    "wof:lastmodified":1485376901,
+    "wof:lastmodified":1492798938,
     "wof:name":"Redriever",
-    "wof:parent_id":-3,
+    "wof:parent_id":1108727041,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fi",
     "wof:superseded_by":[],
